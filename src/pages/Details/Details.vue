@@ -61,7 +61,8 @@ export default {
   },
   methods: {
       norms(){
-     this.flag = !this.flag
+     this.flag = !this.flag;
+     console.log(this.flag);
     },
     add(){
        this.num++
