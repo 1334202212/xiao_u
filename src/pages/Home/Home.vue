@@ -18,6 +18,7 @@
              <router-link to="/home/my" tag="div">
                     <p class="iconfont icon-denglu"></p>
                    <span>我的</span>
+                   vewv
              </router-link>
          </footer>
     </div>
